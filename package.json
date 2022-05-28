@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "build": "parcel build src/index.html --no-minify --public-url ."
+  },
+  "name": "nav",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:mid-bezoar/nav.git",
+  "author": "midbezoar <2974490550@qq.com>",
+  "license": "MIT"
+}
